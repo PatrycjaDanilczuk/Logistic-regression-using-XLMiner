@@ -28,7 +28,7 @@ The dataset contains 16 columns and 4238 rows.
 | Heart Rate | heart rate  | Continuous - In medical research, variables such as heart rate though in fact discrete, yet are considered continuous because of large number of possible values |
 | Glucose | glucose level | Continuous |
 | Predict variable | desired target |
-| 10 year risk of coronary heart disease CHD | binary: “1”, means “Yes”, “0” means “No”|
+| 10 year risk of coronary heart disease CHD | target variable |  binary: “1”, means “Yes”, “0” means “No” |
 
 ## Steps applied
 - Exploring and evaluating quality of the data set
