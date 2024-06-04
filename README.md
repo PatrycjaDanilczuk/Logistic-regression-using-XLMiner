@@ -2,7 +2,7 @@
 ## Project description
 Create logistic regression model to predict whether the patient has 10-year risk of future coronary heart disease (CHD).
 
-[What is coronary heart disease, symptoms, diagnosis, causes]( https://www.nhlbi.nih.gov/health/coronary-heart-disease) 
+You can learn here [what is coronary heart disease, symptoms, diagnosis, causes]( https://www.nhlbi.nih.gov/health/coronary-heart-disease) 
 
 ## About the dataset
 
