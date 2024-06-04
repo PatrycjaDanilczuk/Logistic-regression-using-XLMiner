@@ -49,6 +49,6 @@ The dataset contains 16 columns and 4238 rows.
 - Identifying potential impact of outliers for regression - training a model with outliers
 
 ## How to review the project
-The project is presented in the uploaded Excel file. The file contains an overview of the project in the first tab. The project overview includes information about: steps taken, description of each step, solutions applied and summary of results, the name of the tab or tabs with details of each step (tables, calculations, statistics, models etc.). 
+The project is presented in the uploaded [Excel file](https://github.com/PatrycjaDanilczuk/Logistic-regression-using-XLMiner/blob/main/Logistic%20regression%20using%20XLminer.xlsx). The file contains an overview of the project in the first tab. The project overview includes information about: steps taken, description of each step, solutions applied and summary of results, the name of the tab or tabs with details of each step (tables, calculations, statistics, models etc.). 
 
 Suggested approach to review the project: go to the Project Overview tab, review each step, if necessary go to the tab(s) with details for that step. Note: Due to the large amount of data used in some charts, it may take several seconds for the chart to load after opening the tab. I suggest navigating between tabs using the sheet list (in Excel, right-click the arrows in the lower left corner to open the tab list).
